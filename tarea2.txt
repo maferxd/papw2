@@ -1,1 +1,5 @@
 ¿Cómo crear un repositorio con una rama usando GIT?
+Usando el comando:
+git checkout -b develop <-- este es el nombre de la rama.
+
+Puedes usar git diff para que aparezcan los cambios que haz hecho ;). 
